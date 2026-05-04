@@ -1,19 +1,12 @@
-Your Markdown file for **Calo** is ready.
-
-[file-tag: code-generated-file-0-1777927029857694925]
-
-### Raw Content:
-
-````markdown
 # Calo - React Native Crash Course
 
 A macro tracking app built with React Native and Expo as part of the [React Native Crash Course](https://youtu.be/XCifkDC0yXA) on YouTube by Traversy Media. Track your daily meals and monitor your macros (calories, protein, carbs, fat) with a clean, modern UI.
 
-> **📝 Following along with the course?** Check out the [STEPS.md](STEPS.md) file for the complete step-by-step guide with all the code for each section. The drawing from the video is also in this repo.
+<!-- > **📝 Following along with the course?** Check out the [STEPS.md](STEPS.md) file for the complete step-by-step guide with all the code for each section. The drawing from the video is also in this repo. -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/screen.png" alt="Calo App" width="300" />
-</p>
+</p> -->
 
 ## Features
 
@@ -49,4 +42,3 @@ git clone [https://github.com/bradtraversy/calo.git](https://github.com/bradtrav
 cd calo
 npm install
 ```
-````
