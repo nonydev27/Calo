@@ -1,6 +1,6 @@
-# Calo - React Native Crash Course
+# Calo
 
-A macro tracking app built with React Native and Expo as part of the [React Native Crash Course](https://youtu.be/XCifkDC0yXA) on YouTube by Traversy Media. Track your daily meals and monitor your macros (calories, protein, carbs, fat) with a clean, modern UI.
+A macro tracking app built with React Native and Expo. Track your daily meals and monitor your macros (calories, protein, carbs, fat) with a clean, modern UI.
 
 <!-- > **📝 Following along with the course?** Check out the [STEPS.md](STEPS.md) file for the complete step-by-step guide with all the code for each section. The drawing from the video is also in this repo. -->
 
