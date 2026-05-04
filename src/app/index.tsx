@@ -1,6 +1,6 @@
-import { Text, View, StyleSheet } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
 
-export default function Index() {
+export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <Text>Edit src/app/index.tsx to edit this screen.</Text>
@@ -11,7 +11,20 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: "center",
-    justifyContent: "center",
+    backgroundColor: "#1a1a2e",
+    paddingTop: 60,
+    paddingHorizontal: 20,
+  },
+
+  title: {
+    fontSize: 24,
+    fontWeight: "bold",
+    color: "#fff",
+  },
+  date: {
+    fontSize: 16,
+    color: "#fff",
+    marginTop: 4,
+    marginBottom: 30,
   },
 });
